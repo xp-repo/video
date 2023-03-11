@@ -13,7 +13,7 @@ function Parse(){
 
 function interfaces(par){
 	if(par == 1 ){
-		return "https://dm.xmflv.com:4433/?url=";
+		return "https://im1907.top/?jx=";
 	}else if(par == 2){
 		return "https://dm.xmflv.com:4433/?url=";
 	}else if(par == 3){
