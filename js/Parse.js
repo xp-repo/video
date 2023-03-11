@@ -13,17 +13,17 @@ function Parse(){
 
 function interfaces(par){
 	if(par == 1 ){
-		return "https://im1907.top/?jx=";
+		return "https://dm.xmflv.com:4433/?url=";
 	}else if(par == 2){
-		return "https://dm.xmflv.com:4433/?url=";
+		return "https://jx.m3u8.tv/jiexi/?url=";
 	}else if(par == 3){
-		return "https://dm.xmflv.com:4433/?url=";
+		return "https://pangujiexi.cc/jiexi.php?url=";
 	}else if(par == 4){
-		return "https://dm.xmflv.com:4433/?url=";
+		return "https://www.ckmov.vip/api.php?url=";
 	}else if(par == 5){
-		return "https://dm.xmflv.com:4433/?url=";
+		return "https://im1907.top/?jx=";
 	}else if(par == 6){
-		return "https://dm.xmflv.com:4433/?url=";
+		return "https://jx.playerjy.com/?url=";
 	}
 }
 
